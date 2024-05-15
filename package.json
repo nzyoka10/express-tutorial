@@ -1,0 +1,15 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "simple website using Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "app"
+  },
+  "author": "nzyoka10",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
